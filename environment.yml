@@ -8,3 +8,5 @@ dependencies:
   - sympy
   - pandas
   - pandas-datareader
+  - ffmpeg
+  
