@@ -1,0 +1,19 @@
+   GoodVibes v2.0.1 2018/02/18 17:34:32
+   REF: Funes-Ardoiz, I.; Paton, R. S. (2016). GoodVibes: GoodVibes v1.0.2. http://doi.org/10.5281/zenodo.595246
+
+   Temperature = 298.15 Kelvin   Concentration = 0.0045 mol/l
+   Frequency scale factor 1.0
+   Specified solvent toluene: free volume 0.133 (mol/l) corrects the translational entropy
+
+   Quasi-harmonic treatment: frequency cut-off value of 100.0 wavenumbers will be applied
+   QH = Grimme: Using a mixture of RRHO and Free-rotor vibrational entropies
+   REF: Grimme, S. Chem. Eur. J. 2012, 18, 9955-9964
+
+   Structure                                           E        ZPE             H        T.S     T.qh-S          G(T)       qh-G(T)
+   ********************************************************************************************************************************
+o  2-6pyseries1_2                           -1675.840724   0.570850  -1675.233361   0.106662   0.096048  -1675.340023  -1675.329409
+o  2-6pyseries1_3                           -1565.709425   0.536456  -1565.138834   0.099230   0.090686  -1565.238064  -1565.229521
+o  2-6pyseries1_4                            -779.249975   0.241115   -778.993331   0.053319   0.051796   -779.046650   -779.045127
+o  2-6pyseries1_6                           -1713.680166   0.570140  -1713.068947   0.127108   0.109583  -1713.196055  -1713.178531
+o  2-6pyseries1_7                           -1677.926148   0.592243  -1677.291916   0.131775   0.112493  -1677.423691  -1677.404408
+   ********************************************************************************************************************************
