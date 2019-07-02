@@ -1,3 +1,5 @@
+These are notes for a Python course delivered by Marcus Bannerman at the CCP5 Summer School. For the rest of his notes, see this link (http://www.marcusbannerman.co.uk/CCP5School/)[http://www.marcusbannerman.co.uk/CCP5School/]
+
 # Links below to use the notes
 
 Google colab is the fastest loading interactive service:
